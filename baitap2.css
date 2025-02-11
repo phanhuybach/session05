@@ -1,0 +1,18 @@
+.image {
+    text-align: center;
+}
+
+.all {
+    background-color: black;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+.text {
+    color: rgb(14, 231, 14);
+    font-size: 32px;
+}
